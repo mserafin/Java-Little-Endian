@@ -5,7 +5,7 @@ package com.mserafin.io;
 
 /**
  * Auxiliary class for converting simple numeric types to little endian format.
- * @author Mariusz Serafin
+ * @author mserafin
  *
  */
 public class Convert {

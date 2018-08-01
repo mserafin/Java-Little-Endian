@@ -7,7 +7,7 @@ import java.io.OutputStream;
 /**
  * Write primitive numeric types to stream in little endian format.
  * 
- * @author Mariusz Serafin
+ * @author mserafin
  *
  */
 public class LittleEndianOutputStream extends FilterOutputStream {

@@ -7,7 +7,7 @@ import com.mserafin.io.LittleEndianOutputStream;
 
 /**
  * An example of using the LittleEndianOutputStream class.
- * @author Mariusz Serafin
+ * @author mserafin
  *
  */
 public class Main {
